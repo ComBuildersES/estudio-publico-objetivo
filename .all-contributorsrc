@@ -1,0 +1,11 @@
+{
+  "projectName": "estudio-publico-objetivo",
+  "projectOwner": "ComBuildersES",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": []
+}
