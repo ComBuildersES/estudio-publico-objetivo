@@ -29,8 +29,10 @@ Para ello enviar este enlace:
 
 **⚠️ Importante**: reemplaza el valor de "NOMBRE+DEL+CENTRO" en la URL por el centro al que le envías el formuario
 
+## Añádete a la lista de "Contributors"
+
+Recuerda [seguir las instrucciones para añadir tus contribuciones al repo](https://github.com/ComBuildersES/estudio-publico-objetivo/issues/3).
+
 ## Dudas
 
 Usa [los issues del proyecto](https://github.com/ComBuildersES/estudio-publico-objetivo/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) para preguntar cualquier duda.
-
-
