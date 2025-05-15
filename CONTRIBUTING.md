@@ -36,6 +36,8 @@ Para ello enviar este enlace:
 
 [En este issue](https://github.com/ComBuildersES/estudio-publico-objetivo/issues/2) tenéis algunas plantillas de correo y enlaces a redes que podéis compartir.
 
+Hemos empezado a crear algunas [plantillas de email que también podéis usar](https://github.com/ComBuildersES/estudio-publico-objetivo/tree/main/email-templates).
+
 **⚠️ Importante**: reemplaza el valor de "NOMBRE+DEL+CENTRO" en la URL por el centro al que le envías el formuario
 
 ## Añádete a la lista de "Contributors"
