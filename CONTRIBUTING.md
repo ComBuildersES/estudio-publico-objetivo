@@ -21,11 +21,20 @@ Intentamos que en las iniciativas siempre haya algunos issues etiquetados como [
 
 ## Instrucciones para enviar la encuesta
 
+**¿A quién puedes enviar la encuesta?** Aunque inicialmente la encuesta estaba pensada para las nuevas generaciones y personas que estaban empezando en el sector, en realidad hemos preparado la encuesta para poder segmentar los datos y poder analizarlos por separado, por lo que en resumen; queremos llegar a **cualquier persona que trabaje en el sector tecnológico o que estude algo relacionado con la informática**.
+
 Reenvía el formulario a cualquier persona o centro educativo que pueda darle difusión. 
+* A profesores de centro de formación (FP/Universidades/bootcamps/etc.)
+* Directamente a comunidades tecnológicas
+* A vuestros compañeros de empresa (o a RRHH si se presta)
+* A organizaciones que puedan ayudarnos a darle difusión (e.j. [grupo de Transformación Digital Educativa de Andalucía](https://www.juntadeandalucia.es/educacion/eaprendizaje/tde/)).
+* etc.
 
 Para ello enviar este enlace: 
 
-> https\://docs.google.com/forms/d/e/1FAIpQLSef9tqwDIVt_tOmcXOCNJ7e8aEPg1tMDoGrBlNV3d65oQ7R0A/viewform?usp=pp_url&entry.2056027071=**NOMBRE+DEL+CENTRO** 
+> https\://docs.google.com/forms/d/e/1FAIpQLSef9tqwDIVt_tOmcXOCNJ7e8aEPg1tMDoGrBlNV3d65oQ7R0A/viewform?usp=pp_url&entry.2056027071=**NOMBRE+DEL+CENTRO**
+
+[En este issue](https://github.com/ComBuildersES/estudio-publico-objetivo/issues/2) tenéis algunas plantillas de correo y enlaces a redes que podéis compartir.
 
 **⚠️ Importante**: reemplaza el valor de "NOMBRE+DEL+CENTRO" en la URL por el centro al que le envías el formuario
 
@@ -36,3 +45,10 @@ Recuerda [seguir las instrucciones para añadir tus contribuciones al repo](http
 ## Dudas
 
 Usa [los issues del proyecto](https://github.com/ComBuildersES/estudio-publico-objetivo/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) para preguntar cualquier duda.
+
+## Origen de la iniciativa
+
+En el [encuentro Community Builders de Noviembre de 2024](https://groups.google.com/g/community-builders-es/c/8VzTtVNP3RE) se propuso elaborar una encuesta, 
+
+> **Email thread**: [Encuesta a personas potencialmente interesadas en comunidades](https://groups.google.com/g/community-builders-es/c/jxYLw61PrpA)
+> **Recursos**: [Carpeta de drive](https://drive.google.com/drive/folders/1pxBEXtl4vUjX3z6ZRNKdHxVOYzDI0KZ3?usp=sharing)
