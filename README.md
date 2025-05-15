@@ -24,6 +24,7 @@ Encuesta para conocer mejor al público objetivo de las comunidades tecnológica
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oskarcalvo"><img src="https://avatars.githubusercontent.com/u/85880?v=4?s=100" width="100px;" alt="Oskar Calvo"/><br /><sub><b>Oskar Calvo</b></sub></a><br /><a href="#ideas-oskarcalvo" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/mesa"><img src="https://avatars.githubusercontent.com/u/7116402?v=4?s=100" width="100px;" alt="Luis Mesa"/><br /><sub><b>Luis Mesa</b></sub></a><br /><a href="#ideas-luismesalas" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://yisus82.github.io/"><img src="https://avatars.githubusercontent.com/u/7774855?v=4?s=100" width="100px;" alt="Jesús Ángel Pérez-Roca Fernández"/><br /><sub><b>Jesús Ángel Pérez-Roca Fernández</b></sub></a><br /><a href="#ideas-yisus82" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cldelgadop"><img src="https://avatars.githubusercontent.com/u/62181574?v=4?s=100" width="100px;" alt="Carmen Delgado"/><br /><sub><b>Carmen Delgado</b></sub></a><br /><a href="#review-cldelgadop" title="Reviewed Pull Requests">👀</a> <a href="#ideas-cldelgadop" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
