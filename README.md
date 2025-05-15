@@ -19,6 +19,7 @@ Encuesta para conocer mejor al público objetivo de las comunidades tecnológica
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.rauljimenez.info"><img src="https://avatars.githubusercontent.com/u/826965?v=4?s=100" width="100px;" alt="Raul Jimenez Ortega"/><br /><sub><b>Raul Jimenez Ortega</b></sub></a><br /><a href="#projectManagement-hhkaos" title="Project Management">📆</a> <a href="#doc-hhkaos" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.draxus.org/"><img src="https://avatars.githubusercontent.com/u/2436?v=4?s=100" width="100px;" alt="Manuel Martín"/><br /><sub><b>Manuel Martín</b></sub></a><br /><a href="#review-DraXus" title="Reviewed Pull Requests">👀</a> <a href="#doc-DraXus" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
