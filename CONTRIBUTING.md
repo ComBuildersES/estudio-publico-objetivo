@@ -17,8 +17,7 @@ Las principales formas de contribuir son:
 |Dar difusión de la encuesta en alguna charla/evento/streaming, etc|📢 `talk`
 |Grabar algún vídeo, explicando el proyecto, etc|📹 `video`
 
-Si se te ocurre algo más no dudes en preguntarlo, proponerlo [en los issues](https://github.com/ComBuildersES/estudio-publico-objetivo/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
-
+Intentamos que en las iniciativas siempre haya algunos issues etiquetados como [help wanted](https://github.com/ComBuildersES/estudio-publico-objetivo/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3A%22help+wanted%22) y [good first](https://github.com/ComBuildersES/estudio-publico-objetivo/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3A%22good+first+issue%22) issue. Si no encuentras ninguno o si se te ocurre algo más no dudes en preguntarlo, proponerlo [en los issues](https://github.com/ComBuildersES/estudio-publico-objetivo/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
 
 ## Instrucciones para enviar la encuesta
 
