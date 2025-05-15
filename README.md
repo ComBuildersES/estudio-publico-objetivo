@@ -1,18 +1,31 @@
 # Estudio público objetivo
 
-En el [encuentro de Noviembre](https://groups.google.com/g/community-builders-es/c/8VzTtVNP3RE) se propuso elaborar una encuesta, que posteriormente haríamos llegar a través de profesores de centro de formación (FP/Universidades/bootcamps/etc.) a tantas personas como podamos, con el objetivo de ayudarnos a entender cómo conseguir que los encuentros que organizamos aporten más valor a la comunidad técnica.
+Esta iniciativa nace tras muchas conversaciones en las que **se repiten preguntas como**:
 
-Encuesta para conocer mejor al público objetivo de las comunidades tecnológicas. Encuesta, resultados y análisis colaborativo.
+* “¿Por qué parece que cada vez cuesta más llegar a las nuevas generaciones?”  
+* “¿Dónde están quienes están empezando en el sector?”  
+* “¿Por qué vienen menos a los meetups o a las conferencias presenciales?”
 
-**Email thread**: [Encuesta a personas potencialmente interesadas en comunidades](https://groups.google.com/g/community-builders-es/c/jxYLw61PrpA)
+Más allá de las intuiciones o sensaciones que compartimos, **necesitamos datos** para darles respuesta:
 
-**Recursos**: [Carpeta de drive](https://drive.google.com/drive/folders/1pxBEXtl4vUjX3z6ZRNKdHxVOYzDI0KZ3?usp=sharing)
+- ¿Qué frena a la gente a participar?
+- ¿Qué les motivaría a hacerlo?
+- ¿Estamos comunicando por los canales adecuados?
+- ¿Estamos ofreciendo lo que realmente interesa?
+    
+Por eso hemos creado esta encuesta: es **breve, anónima y abierta**, y pretende ayudarnos a poner palabras y cifras a todo eso que ahora mismo solo intuimos.
+
+El objetivo es usar los resultados para **mejorar cómo organizamos las comunidades** y compartirlos con cualquiera que esté en la misma situación. 
 
 ![](https://repository-images.githubusercontent.com/975680473/f446a7bb-72d9-4042-8d3b-d546e20253cc)
 
 ## Colaborar
 
 Si quieres colaborar, por favor lee el [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Licencia
+
+Los datos en crudo [se pueden ver aquí](https://docs.google.com/spreadsheets/d/13I0k7HLgZsl0MG4liOWSqNAeP41KpuHuwjPETDu7thQ/edit?usp=sharing), y están bajo la licencia CC BY 4.0.
 
 ## Contributors
 
