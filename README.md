@@ -22,6 +22,7 @@ Encuesta para conocer mejor al público objetivo de las comunidades tecnológica
       <td align="center" valign="top" width="14.28%"><a href="https://www.draxus.org/"><img src="https://avatars.githubusercontent.com/u/2436?v=4?s=100" width="100px;" alt="Manuel Martín"/><br /><sub><b>Manuel Martín</b></sub></a><br /><a href="#review-DraXus" title="Reviewed Pull Requests">👀</a> <a href="#doc-DraXus" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.mytechplan.com/"><img src="https://avatars.githubusercontent.com/u/98886279?v=4?s=100" width="100px;" alt="Julieta Zalduendo"/><br /><sub><b>Julieta Zalduendo</b></sub></a><br /><a href="#promotion-julietazalduendo" title="Promotion">📣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oskarcalvo"><img src="https://avatars.githubusercontent.com/u/85880?v=4?s=100" width="100px;" alt="Oskar Calvo"/><br /><sub><b>Oskar Calvo</b></sub></a><br /><a href="#ideas-oskarcalvo" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/mesa"><img src="https://avatars.githubusercontent.com/u/7116402?v=4?s=100" width="100px;" alt="Luis Mesa"/><br /><sub><b>Luis Mesa</b></sub></a><br /><a href="#ideas-luismesalas" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
