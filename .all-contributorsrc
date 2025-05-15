@@ -17,6 +17,16 @@
         "projectManagement",
         "doc"
       ]
+    },
+    {
+      "login": "DraXus",
+      "name": "Manuel Martín",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2436?v=4",
+      "profile": "https://www.draxus.org/",
+      "contributions": [
+        "review",
+        "doc"
+      ]
     }
   ]
 }
