@@ -10,6 +10,10 @@ Encuesta para conocer mejor al público objetivo de las comunidades tecnológica
 
 ![](https://repository-images.githubusercontent.com/975680473/f446a7bb-72d9-4042-8d3b-d546e20253cc)
 
+## Colaborar
+
+Si quieres colaborar, por favor lee el [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
