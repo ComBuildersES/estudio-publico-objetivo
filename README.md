@@ -1,3 +1,5 @@
+[![All Contributors](https://img.shields.io/github/all-contributors/ComBuildersES/estudio-publico-objetivo?color=ee8449&style=flat-square)](#contributors)
+
 # Estudio público objetivo
 
 Esta iniciativa nace tras muchas conversaciones en las que **se repiten preguntas como**:
